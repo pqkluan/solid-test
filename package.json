@@ -1,6 +1,6 @@
 {
   "name": "solid-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "SOLID learning repo",
   "main": "index.js",
   "scripts": {
