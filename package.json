@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/pqkluan/solid-test/issues"
   },
-  "homepage": "https://github.com/pqkluan/solid-test#readme"
+  "homepage": "https://github.com/pqkluan/solid-test#readme",
+  "dependencies": {
+    "inversify": "^4.11.1",
+    "reflect-metadata": "^0.1.12",
+    "socket.io-client": "^2.0.4"
+  }
 }
